@@ -131,7 +131,7 @@ devi.html
 ![alt text](<Screenshot (32).png>)
 ![alt text](<Screenshot (34).png>)
 ![alt text](<Screenshot (35).png>)
-![alt text](<Screenshot 2026-02-16 091221.png>)
+![alt text](<Screenshot (37).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
