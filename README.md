@@ -44,7 +44,7 @@ map.html
        <img src="mapapp/static/Screenshot 2026-02-16 091221.png" usemap="#image-map">
 
 
-</body>
+
 
 
 <img src="Screenshot 2026-02-16 091221.png" usemap="#image-map">
@@ -56,6 +56,7 @@ map.html
     <area target="" alt="harbour" title="harbour" href="harbour.html" coords="1354,216,1301,353,1457,335" shape="poly">
     <area target="" alt="bus stand" title="bus stand" href="bus.html" coords="1015,344,1168,492" shape="rect">
 </map>
+    </body>
 </html>
 
 
