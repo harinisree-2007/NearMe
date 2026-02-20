@@ -122,34 +122,17 @@ devi.html
         <p> Devi Cinemas in Nagapattinam is a premier cinema destination known for its state-of-the-art facilities and innovative features. The cinema hall offers a comfortable viewing experience with high-gain screens, advanced audio processors, and comfortable seating </p>
     </body>
 </html>
-
+```
 
 ## OUTPUT
 
-Screenshot 2026-02-16 091221.png
-
-
-
-Screenshot (35).png
-
-
-
-Screenshot (34).png
-
-
-
-Screenshot (32).png
-
-
-
-
-Screenshot (31).png
-
-
-
-
-Screenshot (30).png
-
+![alt text](<Screenshot (30).png>)
+![alt text](<Screenshot (31).png>)
+![alt text](<Screenshot (32).png>)
+![alt text](<Screenshot (34).png>)
+![alt text](<Screenshot (35).png>)
+![alt text](<Screenshot 2026-02-16 091221.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
+
